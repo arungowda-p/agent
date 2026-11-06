@@ -1,0 +1,10 @@
+Ref,Category,Question
+1.1,Encryption,Is customer data encrypted at rest?
+1.2,Encryption,What version of TLS do you use for data in transit?
+2.1,Compliance,Do you have a current SOC 2 Type II report?
+2.2,Compliance,Are you GDPR compliant and do you sign a DPA?
+3.1,Access Control,Is multi-factor authentication enforced for employees?
+3.2,Access Control,How often are production access rights reviewed?
+4.1,Incident Response,How quickly do you notify customers of a security incident?
+5.1,Business Continuity,What are your RTO and RPO?
+6.1,Physical Security,Do you operate your own data centers?
